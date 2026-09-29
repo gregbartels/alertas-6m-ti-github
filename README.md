@@ -10,6 +10,7 @@ Bot that monitors the 6-meter band (50 MHz) and sends WhatsApp (and optionally e
 
 - A **TI/TE** callsign (Costa Rica) receives a foreign station, or
 - A **TI/TE** station is heard by someone outside Costa Rica,
+<img width="727" height="521" alt="image" src="https://github.com/user-attachments/assets/2fde9330-5ac3-4959-9ba3-e951f46ed112" />
 
 using two public sources in parallel:
 
@@ -55,6 +56,8 @@ Bot que monitorea la banda de 6 metros (50 MHz) y avisa por WhatsApp (y opcional
 
 - Una estación con indicativo **TI/TE** (Costa Rica) recibe a una estación extranjera, o
 - Una estación **TI/TE** es escuchada por alguien fuera de Costa Rica,
+
+<img width="727" height="521" alt="image" src="https://github.com/user-attachments/assets/49d0ffa5-cd0f-47d0-8454-42bc99902077" />
 
 usando dos fuentes públicas en paralelo:
 
