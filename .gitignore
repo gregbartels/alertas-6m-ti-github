@@ -1,0 +1,19 @@
+# Sesión de WhatsApp (Baileys) - NUNCA subir esto, son las credenciales
+# que permiten actuar como tu cuenta de WhatsApp.
+whatsapp_bot/auth_info/
+whatsapp_bot/auth_info_backup/
+whatsapp_bot/.whatsapp_bot.lock
+
+# Dependencias de Node (se instalan con npm install, no se versionan)
+whatsapp_bot/node_modules/
+
+# Estado interno del script de Python (qué ya se alertó, para no duplicar)
+estado_alertas_6m.json
+
+# Python
+__pycache__/
+*.pyc
+
+# Logs / temporales del sistema
+*.log
+.DS_Store

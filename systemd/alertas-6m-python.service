@@ -1,0 +1,16 @@
+[Unit]
+Description=Monitor de aperturas de 6m para TI (PSKReporter)
+After=network-online.target alertas-6m-whatsapp.service
+Wants=network-online.target
+
+[Service]
+Type=simple
+# Ajusta el usuario y las rutas a donde copiaste los archivos en tu Raspberry Pi
+User=pi
+WorkingDirectory=/home/pi/alertas-6m
+ExecStart=/usr/bin/python3 alertas_6m_ti.py
+Restart=on-failure
+RestartSec=15
+
+[Install]
+WantedBy=multi-user.target
