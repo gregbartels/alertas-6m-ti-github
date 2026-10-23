@@ -4,6 +4,24 @@
 
 ---
 
+
+### In Loving Memory of Carlos "Keko" Diez, TI5KD
+**Silent Key — October 6, 2026**
+
+This project was created in loving memory of **Carlos "Keko" Diez, TI5KD**, a passionate amateur radio operator, a true enthusiast of the Magic Band (50 MHz), and a mentor to generations of radio amateurs in Costa Rica.
+
+Keko was more than an experienced operator. He was a teacher, a friend, and an inspiration to many who discovered the fascinating world of 6-meter propagation through his knowledge, dedication, and willingness to share his experience.
+
+His passion for 50 MHz helped inspire a community of operators who continue exploring the mysteries of the Magic Band, chasing distant signals, and celebrating every unexpected band opening.
+
+Although Keko became a Silent Key on October 6, 2026, his knowledge, friendship, and contributions to amateur radio will continue to resonate far beyond the airwaves.
+
+**This application is dedicated to his memory and to the spirit of curiosity, friendship, and discovery that he inspired in so many of us.**
+
+*The signals may fade, but the legacy of a great radio amateur lives on.*
+
+**73, Keko. TI5KD SK. You will always be remembered.**
+
 ## 🇬🇧 English
 
 Bot that monitors the 6-meter band (50 MHz) and sends WhatsApp (and optionally email) alerts when:
@@ -51,6 +69,26 @@ MIT — see [LICENSE](LICENSE).
 ---
 
 ## 🇪🇸 Español
+
+
+### En memoria de Carlos "Keko" Diez, TI5KD
+**Silent Key — 6 de octubre de 2026**
+
+Este proyecto fue creado en memoria de **Carlos "Keko" Diez, TI5KD**, un apasionado radioaficionado, entusiasta de la Banda Mágica (50 MHz) y maestro de generaciones de radioaficionados en Costa Rica.
+
+Keko fue mucho más que un operador experimentado. Fue un maestro, un amigo y una fuente de inspiración para muchos que descubrieron el fascinante mundo de la propagación en 6 metros gracias a sus conocimientos, dedicación y generosidad para compartir sus experiencias.
+
+Su pasión por los 50 MHz ayudó a inspirar a una comunidad de operadores que continúa explorando los misterios de la Banda Mágica, buscando señales lejanas y celebrando cada inesperada apertura de propagación.
+
+Aunque Keko nos dejó el 6 de octubre de 2026, sus enseñanzas, su amistad y sus contribuciones a la radioafición seguirán resonando mucho más allá de las ondas de radio.
+
+**Esta aplicación está dedicada a su memoria y al espíritu de curiosidad, amistad y descubrimiento que despertó en tantos de nosotros.**
+
+*Las señales pueden desvanecerse, pero el legado de un gran radioaficionado permanece para siempre.*
+
+**73, Keko. TI5KD SK. Siempre estarás presente en nuestra memoria.**
+
+
 
 Bot que monitorea la banda de 6 metros (50 MHz) y avisa por WhatsApp (y opcionalmente correo) cuando:
 
